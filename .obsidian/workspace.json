@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "86d1b0cbaf639f29",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c9519e84ef1df7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a28406ef304b0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liora Shigure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Liora Shigure"
+            }
+          },
+          {
+            "id": "760774e9648beec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Sesiones/020 - El Centésimo Primer Examen de Mediador.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "020 - El Centésimo Primer Examen de Mediador"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d94ffa61ccf8ee9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7676854fe203fedc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5124ed3e3616a31d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1fd6223a0eaca340",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9f6de31c1a3d803b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "34f89023d2bbb562",
+    "type": "split",
+    "children": [
+      {
+        "id": "74e9bee99ab1e581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82ce668638e92908",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99_BANCO/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "cd253bb49c251a3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🌸 Festival de las Lilas Blancas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🌸 Festival de las Lilas Blancas"
+            }
+          },
+          {
+            "id": "7ea3a95a1216eef1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "66b5a0f197ca6dfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🌸 Festival de las Lilas Blancas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🌸 Festival de las Lilas Blancas"
+            }
+          },
+          {
+            "id": "f8a34ef1b51fb4af",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "6d263e16c3ef9b83",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "ba242cf7b02bb90b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "18814a61a41cc68a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian42-brat:BRAT": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "760774e9648beec8",
+  "lastOpenFiles": [
+    "Liora Shigure.md",
+    "Campaign/Sesiones/020 - El Centésimo Primer Examen de Mediador.md",
+    "Worldbuilding/Singularidades/Anormalidades.md",
+    "Campaign/Sesiones/Festival del Florecer Silente - Lilas.md",
+    "Worldbuilding/Opus/Distritos/13 (FORMER) La Plaza del Reloj.md",
+    "Worldbuilding/Opus/La Ciudad.md",
+    "Worldbuilding/Opus/Distritos/07 Distrito del Templo.md",
+    "Campaign/Sesiones/001 - Bienvenidos a Opus.md",
+    "Campaign/Sesiones/016 - Mediadores Legales.md",
+    "Campaign/Sesiones/014 - Senhu y los Mediadores del Ala.md",
+    "Campaign/Sesiones/012 - El Rostro de Aquello que Callamos.md",
+    "Campaign/Sesiones/013- Humo y Niebla.md",
+    "99_BANCO/Niveles de amenaza en Opus.md",
+    "03_DISTRITOS/La Catedral Helada.md",
+    "Worldbuilding/Opus/Distritos/05 La Rueda de Oro.md",
+    "Worldbuilding/Opus/Distritos/06 Bóveda de los Sueños.md",
+    "Worldbuilding/Mediadores/Asociaciones/Las Asociaciones.md",
+    "Campaign/Template Sesiones.md",
+    "Liora.md",
+    "Decisión Opus going forward.md",
+    "Worldbuilding/Opus/Distritos/09 Los Pozos Cristalinos.md",
+    "Untitled.md",
+    "Udyat, Ojo de la Verdad.md",
+    "Campaign/Sesiones/015 - Fragmentos del Designio.md",
+    "Worldbuilding/Singularidades/El Juicio de las Sombras Rotas.md",
+    "Campaign/Sesiones/018 - La Ciudad También Olvida.md",
+    "Pasted image 20241120175354.png",
+    "Pasted image 20260117014456.png",
+    "Pasted image 20260117010908.png",
+    "Pasted image 20260117010905.png",
+    "Campaign/People/Mediadores influyentes/Grado 5",
+    "Campaign/People/Mediadores influyentes/Grado 4",
+    "Campaign/People/Mediadores influyentes/Grado 3",
+    "Campaign/People/Mediadores influyentes/Grado 1",
+    "Worldbuilding/Opus/Distritos/04 Lilas",
+    "Worldbuilding/Opus/Tabúes de Opus",
+    "Worldbuilding/Opus/Distritos",
+    "Worldbuilding/Mediadores/Colores",
+    "Worldbuilding/Mediadores/Asociaciones",
+    "Worldbuilding/Sistema de Magia"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "showFudgeIcon": false,
+  "rollLinksForTags": false,
+  "copyContentButton": true,
+  "customFormulas": [],
+  "displayFormulaForMod": true,
+  "displayResultsInline": false,
+  "displayFormulaAfter": false,
+  "escapeDiceMod": true,
+  "signed": false,
+  "displayLookupRoll": true,
+  "formulas": {},
+  "defaultRoll": 1,
+  "defaultFace": 100,
+  "renderer": false,
+  "renderAllDice": false,
+  "addToView": false,
+  "renderTime": 2000,
+  "colorfulDice": false,
+  "scaler": 1,
+  "diceColor": "#202020",
+  "textColor": "#ffffff",
+  "textFont": "Arial",
+  "showLeafOnStartup": true,
+  "showDice": true,
+  "displayAsEmbed": true,
+  "round": "None",
+  "initialDisplay": "Roll",
+  "icons": [
+    {
+      "id": "dice-roller-d4",
+      "shape": "Triangle",
+      "formula": "d4",
+      "text": "4"
+    },
+    {
+      "id": "dice-roller-d6",
+      "shape": "Square",
+      "formula": "d6",
+      "text": "6"
+    },
+    {
+      "id": "dice-roller-d8",
+      "shape": "Diamond",
+      "formula": "d8",
+      "text": "8"
+    },
+    {
+      "id": "dice-roller-d10",
+      "shape": "Diamond",
+      "formula": "d10",
+      "text": "10"
+    },
+    {
+      "id": "dice-roller-d12",
+      "shape": "Dodecahedron",
+      "formula": "d12",
+      "text": "12"
+    },
+    {
+      "id": "dice-roller-d20",
+      "shape": "Icosahedron",
+      "formula": "d20",
+      "text": "20"
+    },
+    {
+      "id": "dice-roller-d100",
+      "shape": "Circle",
+      "formula": "d%",
+      "text": "%"
+    }
+  ],
+  "showRenderNotice": true,
+  "diceModTemplateFolders": {},
+  "replaceDiceModInLivePreview": true,
+  "version": "11.0.5",
+  "viewResults": [
+    {
+      "result": 8,
+      "original": "1d20",
+      "resultText": "[8]",
+      "timestamp": 1726256734578,
+      "id": "jxpOcm9YBc75"
+    },
+    {
+      "result": 10,
+      "original": "1d10kh",
+      "resultText": "[10]",
+      "timestamp": 1726256744084,
+      "id": "K619SpCDPXmQ"
+    },
+    {
+      "result": 14,
+      "original": "1d20",
+      "resultText": "[14]",
+      "timestamp": 1726516539925,
+      "id": "be1CGXqCc2Uy"
+    },
+    {
+      "result": 34,
+      "original": "1d%",
+      "resultText": "[34]",
+      "timestamp": 1726516543706,
+      "id": "3cOD88DE5O1q"
+    }
+  ]
+}
