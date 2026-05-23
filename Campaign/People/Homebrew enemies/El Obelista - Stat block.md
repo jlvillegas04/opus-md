@@ -1,3 +1,9 @@
+---
+type: enemy
+campaign: opus-1
+tags: [enemy, anormalidad, opus-1]
+---
+
 # 📖 El Obelista (Fase 2) – Distorsión de Pesadilla Urbana
 
 **Amenaza:** Distorsión de nivel *Pesadilla de La Ciudad*  

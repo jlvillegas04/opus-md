@@ -1,3 +1,9 @@
+---
+type: association
+campaign: opus-general
+tags: [asociacion, desyat]
+---
+
 ## Descripción General
 
 La **Asociación Desyat** es la [[Las Asociaciones|Asociación]] especializada en la **sanación mágica-tecnológica** en [[Opus]]. Su enfoque se centra en combinar la magia curativa con avances tecnológicos para ofrecer tratamientos innovadores y efectivos a los heridos y enfermos. Desyat trabaja en estrecha colaboración con el Ala del Velo Carmesí, fusionando la magia y la tecnología para mejorar la calidad de vida de los ciudadanos.

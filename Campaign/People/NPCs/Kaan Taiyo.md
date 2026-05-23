@@ -1,3 +1,9 @@
+---
+type: npc
+campaign: opus-1
+tags: [npc, opus-1]
+---
+
 ## **Descripción**
 
 #### **Apariencia:**

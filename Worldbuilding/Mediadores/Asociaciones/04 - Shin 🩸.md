@@ -1,3 +1,9 @@
+---
+type: association
+campaign: opus-general
+tags: [asociacion, shin]
+---
+
 ## Descripción General
 
 La **Asociación Shin** es la [[Las Asociaciones|Asociación]] encargada de llevar a cabo **operaciones de asesinato y sigilo** en [[Opus]]. Con un enfoque implacable en la neutralización de amenazas y la eliminación de objetivos, los mediadores de Shin son expertos en la infiltración y la ejecución de misiones letales. Valoran la fuerza individual, la astucia y la capacidad para actuar en las sombras, lo que los convierte en algunos de los profesionales más temidos y respetados de la ciudad.

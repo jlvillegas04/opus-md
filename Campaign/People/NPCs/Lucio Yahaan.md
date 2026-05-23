@@ -1,3 +1,8 @@
+---
+type: npc
+campaign: opus-1
+tags: [npc, opus-1]
+---
 
 **Alineamiento:** Neutral  
 **HP:** 15 (3d8 + 3)  

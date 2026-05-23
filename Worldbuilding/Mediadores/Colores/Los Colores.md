@@ -1,3 +1,8 @@
+---
+type: hub
+campaign: opus-general
+tags: [hub, color, mediador]
+---
 
 > _Para más información sobre Mediadores, consulta [[Los Mediadores]]._
 

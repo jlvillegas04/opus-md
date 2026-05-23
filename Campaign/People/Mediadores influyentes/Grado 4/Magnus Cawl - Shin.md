@@ -1,3 +1,11 @@
+---
+type: npc
+campaign: opus-general
+tags: [npc, mediador, grado-4, shin]
+---
+
+*[[Los Mediadores]] · Grado 4*
+
 # Magnus Cawl - Mediador Grado 4
 
 ## Stats Overview

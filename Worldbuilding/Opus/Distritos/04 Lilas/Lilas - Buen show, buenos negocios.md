@@ -1,5 +1,11 @@
 
 
+---
+type: worldbuilding
+campaign: opus-general
+tags: [district, lilas, lore]
+---
+
 La noche es joven en el Distrito de Lilas, pero el aire ya está saturado del aroma penetrante a lavanda que da nombre a esta parte de Opus. A diferencia del olor a viejo de las Callejuelas, el Nido de Lilas es puro, pulcro, y los caminos que llevan a los dominios de los nobles están alineados con árboles de lilas que florecen todo el año. Un olor asqueroso y petulante, pero quién soy yo para cuestionar a esas bolsas de dinero andantes del Ala.
 
 En el Nido, los ricos y poderosos se entretienen con el espectáculo de las arenas de combate, lugares donde gladiadores arrebatados de las Callejuelas son lanzados a la batalla para saciar la sed de sangre de sus crueles amos. Ha sido así desde que llegué al Distrito con mi hermanita, huérfanos de un orfanato que había quebrado en un lugar lejano de La Ciudad. Mi rápida adaptación fue lo que nos salvó el pellejo, pues fuimos inundados con un entorno que trata a los de nuestra clase como animales de entretenimiento.

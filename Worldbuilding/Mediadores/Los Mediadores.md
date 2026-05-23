@@ -1,4 +1,10 @@
 ---
+type: hub
+campaign: opus-general
+tags:
+  - hub
+  - mediador
+---
 
 > "*El mercado está saturado. No hay tal cosa como "La Libertad de los Mediadores". Todos desean serlo, y pocos conocen sus consecuencias.*"
 > - [Devola]()

@@ -1,3 +1,9 @@
+---
+type: reference
+campaign: opus-general
+tags: [meta, opus-2]
+---
+
 El grupo decide cambiar personajes, manteniendo el mundo con sus consecuencias
 
 Nivel 5

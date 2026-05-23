@@ -1,3 +1,9 @@
+---
+type: association
+campaign: opus-general
+tags: [asociacion, quinque]
+---
+
 ## Descripción General
 
 La **Asociación Quinque** es la [[Las Asociaciones|Asociación]] encargada de la **gestión de armamentos y tecnologías avanzadas** en [[Opus]]. Su misión principal es proporcionar a los Mediadores las herramientas necesarias para llevar a cabo sus funciones de manera efectiva y regulada, asegurando que la tecnología no caiga en manos equivocadas. Quinque actúa como un regulador y proveedor de innovaciones, fusionando la magia con la tecnología para crear dispositivos únicos que optimizan las capacidades de los Mediadores.

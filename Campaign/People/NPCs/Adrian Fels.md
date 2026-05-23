@@ -1,3 +1,9 @@
+---
+type: npc
+campaign: opus-1
+tags: [npc, opus-1]
+---
+
 ## Estadísticas de Combate
 - **Nivel:** 4
 - **Clase:** Guerrero (Maestro de Batalla)

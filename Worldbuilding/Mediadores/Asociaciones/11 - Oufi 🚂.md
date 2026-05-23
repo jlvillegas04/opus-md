@@ -1,3 +1,9 @@
+---
+type: association
+campaign: opus-general
+tags: [asociacion, oufi]
+---
+
 ## Descripción General
 
 La **Asociación Oufi** es la [[Las Asociaciones|Asociación]] encargada de la **logística de transporte y magia espacial** en [[Opus]]. Su principal logro es el **Tren Infinito**, una innovadora maravilla tecnológica que utiliza magia avanzada para transportar a las personas de un extremo de la ciudad a otro en cuestión de segundos. Este servicio es exclusivo y costoso, reservado principalmente para las élites y aquellos que trabajan en operaciones secretas en colaboración con una Ala anónima.

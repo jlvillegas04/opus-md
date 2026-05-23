@@ -1,3 +1,9 @@
+---
+type: npc
+campaign: opus-1
+tags: [npc, lilas, opus-1]
+---
+
 > [!abstract] **Niebla**
 > **Raza:** Humana modificada (¿o quizás un eco antiguo de Opus?)  
 > **Edad aparente:** 14 años  

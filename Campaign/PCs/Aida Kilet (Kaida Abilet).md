@@ -1,1 +1,0 @@
-Punticos positivos: 1

@@ -1,3 +1,9 @@
+---
+type: association
+campaign: opus-general
+tags: [asociacion, liu]
+---
+
 ## Descripción General
 
 La **Asociación Liu** es la [[Las Asociaciones|Asociación]] dedicada al **espionaje y la recolección de información** en [[Opus]]. Su misión es proporcionar inteligencia crítica a los Mediadores, asegurando que estén siempre un paso por delante de sus oponentes. Liu opera en las sombras, utilizando tácticas de infiltración, observación y manipulación para obtener datos de alto valor que pueden cambiar el curso de cualquier conflicto.

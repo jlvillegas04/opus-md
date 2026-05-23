@@ -1,3 +1,9 @@
+---
+type: association
+campaign: opus-general
+tags: [asociacion, tris]
+---
+
 ## Descripción General
 
 La **Asociación Tris** es la [[Las Asociaciones|Asociación]] especializada en la **mediación de conflictos y gestión de crisis** en [[Opus]]. Actuando como intermediarios en disputas entre distritos, Tris se dedica a mantener la estabilidad en la ciudad a través de tácticas de negociación firmes y, en ocasiones, implacables. Sus mediadores son conocidos por su habilidad para leer la situación y actuar decisivamente, equilibrando intereses contradictorios mientras buscan resolver tensiones antes de que escalen a la violencia.

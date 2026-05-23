@@ -1,3 +1,9 @@
+---
+type: association
+campaign: opus-general
+tags: [asociacion, douze]
+---
+
 ## Descripción General
 
 La **Asociación Douze** es la [[Las Asociaciones|Asociación]] encargada de la **gestión y desarrollo de infraestructuras críticas** en [[Opus]]. Su labor incluye la planificación y construcción de fábricas, centrales de energía, y otros componentes vitales que sostienen el funcionamiento de la ciudad. Douze es conocida por su atención al detalle y su capacidad para crear planes que no solo sean funcionales, sino también seguros y estratégicos, incluyendo zonas protegidas del Ala, caminos ocultos y vías principales.

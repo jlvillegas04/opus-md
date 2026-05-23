@@ -1,4 +1,8 @@
 ---
+type: hub
+campaign: opus-general
+tags: [hub, gobierno]
+---
 
 > "*Conocer y manipular todos los secretos del mundo; este es el privilegio de La Cabeza. Es su honor y absoluto poder.*
 > *Nadie se atreve a hacerles frente. Mientras existan, la historia de los Nidos nunca llegará a su final."

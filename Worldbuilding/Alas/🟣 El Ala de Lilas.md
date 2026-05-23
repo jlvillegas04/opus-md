@@ -1,3 +1,9 @@
+---
+type: ala
+campaign: opus-general
+tags: [ala, lilas]
+---
+
 # 🟣 Ala de Lilas
 > *"No hay flor sin espinas, ni propósito sin sigilo."*  
 > — Lema inscrito en los anillos de los altos funcionarios.

@@ -1,3 +1,11 @@
+---
+type: npc
+campaign: opus-general
+tags: [npc, mediador, grado-5]
+---
+
+*[[Los Mediadores]] · Grado 5*
+
 ## Descripción
 > [!info] **Raika Palendi**  
 > **Raza:** Shadar-Kai  

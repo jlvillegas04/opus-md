@@ -1,3 +1,9 @@
+---
+type: faction
+campaign: opus-1
+tags: [faction, lilas, opus-1]
+---
+
 # El Udyat
 
 **Descripción:**  

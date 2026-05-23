@@ -1,4 +1,8 @@
 ---
+type: hub
+campaign: opus-general
+tags: [hub, alas]
+---
 
 > "*Las Singularidades se manifiestan día tras día. Todo cambia en un parpadeo.*
 > *Las Alas y la Cabeza controlan este mundo, y ahora la humanidad no puede vivir sin sus restricciones.*"

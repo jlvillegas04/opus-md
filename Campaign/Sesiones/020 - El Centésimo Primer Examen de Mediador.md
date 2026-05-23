@@ -1,3 +1,11 @@
+---
+type: session
+campaign: opus-2
+tags: [session, opus-2]
+---
+
+*[[Opus 2.0]] · Sesión 020*
+
 # Examen 101 de Mediador - Fase 1
 
 ## Resources

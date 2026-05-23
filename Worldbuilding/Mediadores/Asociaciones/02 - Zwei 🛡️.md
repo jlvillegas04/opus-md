@@ -1,3 +1,9 @@
+---
+type: association
+campaign: opus-general
+tags: [asociacion, zwei]
+---
+
 ## Descripción General
 
 La **Asociación Zwei** es la [[Las Asociaciones|Asociación]] de autoridad principal en **seguridad pública y defensa** en [[Opus]]. Funciona como una fuerza policial que protege a los ciudadanos y mantiene el orden en las calles. Zwei sigue un estricto código moral, enfocándose en la integridad y la justicia. 

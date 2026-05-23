@@ -1,3 +1,9 @@
+---
+type: singularidad
+campaign: opus-1
+tags: [singularidad, faction, opus-1]
+---
+
 # Los Prescriptos: Guardianes del Conocimiento
 
 **Descripción:**  

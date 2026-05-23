@@ -1,3 +1,9 @@
+---
+type: district
+campaign: opus-general
+tags: [district, lilas]
+---
+
 # Lilas - La Joya Envenenada de Opus
 
 > [!info] **Descripción General**

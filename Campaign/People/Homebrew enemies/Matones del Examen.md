@@ -1,3 +1,8 @@
+---
+type: enemy
+campaign: opus-2
+tags: [enemy, opus-2]
+---
 
 **Alineamiento:** Neutral Malvado  
 **HP:** 24 (4d8 + 6)  

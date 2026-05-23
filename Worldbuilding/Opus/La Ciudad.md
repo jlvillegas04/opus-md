@@ -1,4 +1,8 @@
 ---
+type: hub
+campaign: opus-general
+tags: [hub]
+---
 
 > "*¿Salir de Opus? Ese es un sueño reservado sólo para los muertos. No mires mucho hacia arriba, o el sol te quemará los ojos. No le hables a las sombras, pues te pueden responder. Cada niño en Opus es criado con esto en mente. Los intentos por desentrañar sus misterios solo te lleva más profundo en su enigma, y solo aquellos que han dejado de respirar encuentran el final de este retorcido juego.*"
 > - [Mott Valáez]()

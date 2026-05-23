@@ -1,3 +1,11 @@
+---
+type: npc
+campaign: opus-general
+tags: [npc, mediador, hana]
+---
+
+*[[Los Mediadores]] · Inspector Hana*
+
 # Inspector Serva - Asociación Hana
 
 ## Descripción

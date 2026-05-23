@@ -1,4 +1,8 @@
-
+---
+type: enemy
+campaign: opus-1
+tags: [enemy, anormalidad, opus-1]
+---
 
 Una masa palpitante de carne, con múltiples bocas que gritan confesiones y ojos que lloran sangre de pecados ajenos. Se arrastra por la arena como si respondiera al juicio de algo más allá del entendimiento humano.
 

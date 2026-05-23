@@ -1,3 +1,9 @@
+---
+type: district
+campaign: opus-general
+tags: [district, mercurio, lore]
+---
+
 Fue en la víspera del Impluo, cuando todo el Distrito estaba ocupado con preparaciones, que la suerte de Anthea finalmente se acabó.
 Su plan había sido bueno, en verdad. Se había tomado su tiempo, cercando y observando el lugar que había elegido en los últimos dos días. En este tiempo había rastreado las rotaciones de los habitantes, trazado su camino, y calculado cúal podría ser el botín dentro.
 Con todo esto, su suposición era que sería un botín sustancial. Suficiente para que Anthea pudiera poner distancia entre ella y unas deudas particularmente hostiles, con un poco de dinero restante para dejar la vida de las ganzúas por un tiempo en el Entresol, donde podría dormir con los dos ojos cerrados sin temor a encontrar un cuchillo clavado en sus costillas al despertar.

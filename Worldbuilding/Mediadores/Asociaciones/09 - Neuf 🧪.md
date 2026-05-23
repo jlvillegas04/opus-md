@@ -1,3 +1,9 @@
+---
+type: association
+campaign: opus-general
+tags: [asociacion, neuf]
+---
+
 ## Descripción General
 
 La **Asociación Neuf** es la [[Las Asociaciones|Asociación]] dedicada a la **experimentación con magia polémica y tecnologías arcanas** en [[Opus]]. Esta asociación opera en las sombras, explorando los límites de lo que se considera aceptable y moral en el uso de la magia y la tecnología. Neuf se enfoca en la investigación de hechizos prohibidos, artefactos arcanos y prácticas mágicas que podrían cambiar la realidad misma.

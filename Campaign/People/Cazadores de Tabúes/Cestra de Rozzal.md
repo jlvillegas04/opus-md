@@ -1,4 +1,8 @@
- 
+---
+type: npc
+campaign: opus-1
+tags: [npc, cazador-tabues, opus-1]
+---
 
 > [!danger] Nivel de Desafío: 8
 > **Experiencia**: 3,900 puntos  

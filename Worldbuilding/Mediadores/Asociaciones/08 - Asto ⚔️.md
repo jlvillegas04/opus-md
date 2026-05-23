@@ -1,3 +1,9 @@
+---
+type: association
+campaign: opus-general
+tags: [asociacion, asto]
+---
+
 ## Descripción General
 
 La **Asociación Asto** es la [[Las Asociaciones|Asociación]] dedicada a la **guerra y combate directo** en [[Opus]]. Su enfoque es el enfrentamiento abierto con grupos hostiles y la defensa de los ciudadanos ante amenazas inminentes. Asto es conocida por su valentía y su disposición a luchar en las líneas del frente, llevando la lucha directamente a los enemigos de la ciudad.

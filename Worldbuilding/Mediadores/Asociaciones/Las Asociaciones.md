@@ -1,3 +1,8 @@
+---
+type: hub
+campaign: opus-general
+tags: [hub, asociacion, mediador]
+---
 
 > [!quote] 
 > "Las asociaciones se encargan de las solicitudes que se hacen a menudo a los Mediadores, como seguridad, combate, asesinatos, inteligencia, patentes y transacciones. Cuando hay dinero, hay Asociaciones. Las Asociaciones siguen la demanda, no al revés. La demanda equivale a solicitudes, y las solicitudes equivalen a ganancias."
@@ -45,18 +50,18 @@ Cada Asociación tiene su uniforme, reglas, métodos y especialidades. La Asocia
 
 # Todas las Asociaciones
 
-| Asociación                    | Miembros Conocidos     | Descripción                                                                                             |     |
-| ----------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------- | --- |
-| ⚖️ [[01 - Hana ⚖️\|Hana (1)]] | [[Serva - Hana]]       | Líder de las Asociaciones; gradúa a todos los Mediadores y amenazas de Opus.                            |     |
-| 🛡️ Zwei (2)                  | [[Liora - Zwei]]       | Se especializa en seguridad pública y defensa, actuando como fuerza policial.                           |     |
-| 🤝 Tris (3)                   | [[Arannis - Tres]]     | Especializada en mediación diplomática y resolución de conflictos entre distritos.                      |     |
-| 🩸Shin (4)                    | [[Magnus Cawl - Shin]] | Operaciones de asesinato y sigilo.                                                                      |     |
-| 🛠️Quinque (5)                | [[Mili - Quinque]]     | Maneja armamentos y tecnologías avanzadas para el uso regulado de Mediadores.                           |     |
-| 🕵️‍♂️ Liu  (6)               | [[Balasar - Seis]]     | Focalizada en el espionaje y la recolección de información de alto valor para operaciones estratégicas. |     |
-| 📊Siebte (7)                  | [[Nyx - Siebte]]       | Experta en representar facciones en duelos y recolectar inteligencia.                                   |     |
-| ⚔️Asto (8)                    | [[Evelynn - Asto]]     | Especializada en combate directo y guerra contra grupos grandes.                                        |     |
-| 🧪 Neuf (9)                   | [[Merric - Neuf]]      | Centrada en experimentación con magia prohibida y tecnologías arcanas de vanguardia.                    |     |
-| ⚕️Desyat (10)                 | [[Cassiel - Desyat]]   | Se centra en la sanación mágica-tecnológica, tiene una estrecha relación con el Ala del Velo Carmesí.   |     |
-| 🚂Oufi (11)                   | [[Seraphiel - Once]]   | Se especializa en transporte y magia espacial.                                                          |     |
-| 💡 Douze (12)                 | [[Merric - Douze]]     | Se ocupa de la gestión y desarrollo de infraestructuras críticas, como fábricas y centrales de energía. |     |
+| Asociación                    | Descripción                                                                                             |     |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------- | --- |
+| ⚖️ [[01 - Hana ⚖️\|Hana (1)]] | Líder de las Asociaciones; gradúa a todos los Mediadores y amenazas de Opus.                            |     |
+| 🛡️ Zwei (2)                  | Se especializa en seguridad pública y defensa, actuando como fuerza policial.                           |     |
+| 🤝 Tris (3)                   | Especializada en mediación diplomática y resolución de conflictos entre distritos.                      |     |
+| 🩸Shin (4)                    | Operaciones de asesinato y sigilo.                                                                      |     |
+| 🛠️Quinque (5)                | Maneja armamentos y tecnologías avanzadas para el uso regulado de Mediadores.                           |     |
+| 🕵️‍♂️ Liu  (6)               | Focalizada en el espionaje y la recolección de información de alto valor para operaciones estratégicas. |     |
+| 📊Siebte (7)                  | Experta en representar facciones en duelos y recolectar inteligencia.                                   |     |
+| ⚔️Asto (8)                    | Especializada en combate directo y guerra contra grupos grandes.                                        |     |
+| 🧪 Neuf (9)                   | Centrada en experimentación con magia prohibida y tecnologías arcanas de vanguardia.                    |     |
+| ⚕️Desyat (10)                 | Se centra en la sanación mágica-tecnológica, tiene una estrecha relación con el Ala del Velo Carmesí.   |     |
+| 🚂Oufi (11)                   | Se especializa en transporte y magia espacial.                                                          |     |
+| 💡 Douze (12)                 | Se ocupa de la gestión y desarrollo de infraestructuras críticas, como fábricas y centrales de energía. |     |
 

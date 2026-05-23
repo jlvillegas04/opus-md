@@ -1,3 +1,9 @@
+---
+type: reference
+campaign: opus-general
+tags: [referencia, amenaza, mediador]
+---
+
 - **Mito Urbano**
 	Incidentes anómalos de baja intensidad que apenas emergen del ruido cotidiano de La Ciudad.  
 	Los registros son inconsistentes y las víctimas, si existen, se consideran daños colaterales aceptables.  

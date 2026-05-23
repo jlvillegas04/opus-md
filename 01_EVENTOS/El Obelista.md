@@ -1,3 +1,9 @@
+---
+type: event
+campaign: opus-1
+tags: [event, anormalidad, opus-1]
+---
+
 ## 1. Clasificación
 - **Tipo**: Anormalidad
 - **Nivel de amenaza:** Pesadilla de La Ciudad

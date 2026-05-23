@@ -1,3 +1,8 @@
+---
+type: association
+campaign: opus-general
+tags: [asociacion, siebte]
+---
 
 ## Descripción General
 

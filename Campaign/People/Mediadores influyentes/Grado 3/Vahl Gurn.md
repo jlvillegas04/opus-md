@@ -1,3 +1,11 @@
+---
+type: npc
+campaign: opus-general
+tags: [npc, mediador, grado-3]
+---
+
+*[[Los Mediadores]] · Grado 3*
+
 ## **Vahl, Mediador de Grado 3**
 
 _Humanoide medio, legal neutral_
