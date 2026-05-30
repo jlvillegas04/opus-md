@@ -14,14 +14,14 @@ Ver [[Opus]] para el hub maestro. Ver [[Opus 1.0]] para el arco anterior.
 
 ## Personajes Jugadores
 
-| Jugador | Personaje | Clase | Raza | Examinado # |
-|---------|-----------|-------|------|-------------|
-| Valencia | Isidora | Guerrero | Halfling | #865 |
-| Negro | Grauthar | Guerrero / Bárbaro | — | #67 |
-| Luky | Conio | Pícaro (support) | — | #4341 |
-| Manuel | Boris | Bárbaro / Bardo | Humano | #115 |
-| Palacio | — | Mago de Conjuración / Clérigo | — | — |
-| Santiago | Zazsias | Guerrero / Druida | — | #4252 |
+| Jugador  | Personaje | Clase                 | Raza                   | Examinado # |
+| -------- | --------- | --------------------- | ---------------------- | ----------- |
+| Valencia | Isidora   | Guerrero              | Tiefling de Zariel     | #865        |
+| Negro    | Grauthar  | Bárbaro               | Osgo                   | #67         |
+| Luky     | Conio     | Pícaro (support)      | Etergénito Excepcional | #4341       |
+| Manuel   | Boris     | Bárbaro / Bardo       | Humano                 | #115        |
+| Santiago | Zazsias   | Mago                  | Yuan-ti                | #4252       |
+| Andy     | Meggido   | Guerrero (gunslinger) | Humano                 | #2289       |
 
 ---
 

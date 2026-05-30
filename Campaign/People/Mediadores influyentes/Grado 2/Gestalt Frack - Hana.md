@@ -35,7 +35,7 @@ Esto la hace especialmente dura con quienes la violaron por razones buenas — p
 Boshi la incita constantemente a "ceñirse al protocolo" en situaciones donde Gestalt empieza a escuchar demasiado. Boshi no siempre tiene razón, pero Gestalt lo escucha.
 
 > [!abstract] **En una frase**
-> *"Tu criterio fue correcto. El método no lo fue. Son cosas distintas."*
+> *"Las personas son importantes. Pero ninguna persona es más importante que el sistema que permite que las personas existan."*
 
 ---
 

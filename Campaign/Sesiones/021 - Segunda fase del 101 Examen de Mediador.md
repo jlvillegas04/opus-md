@@ -1,7 +1,9 @@
 ---
 type: session
 campaign: opus-2
-tags: [session, opus-2]
+tags:
+  - session
+  - opus-2
 ---
 
 *[[Opus 2.0]] · Sesión 021*
@@ -22,7 +24,7 @@ La Segunda y última fase del Examen 101 es una versión modificada de Cazadores
 
 [[Gestalt Frack - Hana]] reutiliza la mecánica base pero la lleva al exterior del Nido de Mercurio, al Gran Mercado — un espacio urbano de tres niveles. Introduce las **Marcas de Seguimiento**, tatuajes temporales conectados a los vestigios de una Singularidad muerta bajo Mercurio. Cada cierto tiempo, las marcas pulsan y delatan al portador.
 
-La sesión es dinámica y centrada en encuentros: combate, persecución, negociación entre grupos, y las decisiones que los jugadores toman bajo presión. El cierre diegético del mini-arco llega con la ceremonia de graduación al terminar la prueba.
+
 
 ---
 
@@ -31,7 +33,7 @@ La sesión es dinámica y centrada en encuentros: combate, persecución, negocia
 - Confirmar composición final del grupo de la party para el examen (6 PCs + quién más)
 - Preguntar si Liora se une al grupo de la party o compite sola
 - Los cohorte members que queden vivos de la Fase 1 pueden participar — dejar que los jugadores decidan quién incluyen
-- Palacio: definir nombre y número de examinado si aún no está resuelto
+
 
 ---
 
